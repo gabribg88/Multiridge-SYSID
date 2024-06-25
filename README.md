@@ -2,7 +2,7 @@
 
 This github repository contains the Python code to reproduce the results of the paper Differentiable multi-ridge regression for system identification by Gabriele Maroni, Loris Cannelli and Dario Piga.
 
-This paper has been submitted for publication for the *20th IFAC Symposium on System Identification (SYSID2024)*.
+This paper has been accepted for publication for the *20th IFAC Symposium on System Identification (SYSID2024)*.
 
 ![License Badge](https://img.shields.io/badge/license-MIT-blue)
 
